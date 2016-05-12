@@ -20,7 +20,7 @@
       "http_directory": "http",
       "iso_checksum": "7bb8c1c23a4fdef93e6f0a6347d570e5764d0b38",
       "iso_checksum_type": "sha1",
-      "iso_url": "http://mirror.rackspace.com/CentOS/6.7/isos/x86_64/CentOS-6.7-x86_64-bin-DVD1.iso",
+      "iso_url": "http://mirrors.rit.edu/centos/6.7/isos/x86_64/CentOS-6.7-x86_64-bin-DVD1.iso",
       "ssh_username": "vagrant",
       "ssh_password": "vagrant",
       "ssh_port": 22,
